@@ -53,6 +53,9 @@ msgstr " (gehört %s)"
 msgid " - Broken"
 msgstr " - Kaputt"
 
+msgid "Testing new line"
+msgstr ""
+
 msgid " Activate this option"
 msgstr " Aktiviere Option"
 

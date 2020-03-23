@@ -86,9 +86,6 @@ msgstr ""
 "expresii  (și așa mai departe...)</td></tr>\n"
 "</table>\n"
 
-msgid "Testing new line"
-msgstr ""
-
 msgid " (Copy)"
 msgstr " (Copiază)"
 
